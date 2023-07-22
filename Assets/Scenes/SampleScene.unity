@@ -346,6 +346,12 @@ MonoBehaviour:
   m_WorldSize: {x: 100, y: 100}
   m_DimIndex: 0
   m_Generate: 0
+  m_Chunk:
+    m_Bounds:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    m_Container: {fileID: 0}
+    m_Tiles: []
 --- !u!4 &1416374602
 Transform:
   m_ObjectHideFlags: 0
